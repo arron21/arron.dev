@@ -1,6 +1,7 @@
 ---
-title: "We live in an Age of Communication"
-date: 2019-10-12T15:07:20-07:00
+date: "2019-10-12"
+description: "Supermaya is an Eleventy starter kit designed to help you add rich features to a blog or website without the need for a complicated build process."
+title: We live in an Age of Communication
 draft: false
 ---
 
