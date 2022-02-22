@@ -1,9 +1,7 @@
-+++
-date = 2020-11-13T08:00:00Z
-gallery = []
-title = "Useful git Commands"
-
-+++
+---
+date: "2020-11-13"
+title: Useful git Commands
+---
 **git config credential.helper store**
 
 This saves your username and password for the project folder

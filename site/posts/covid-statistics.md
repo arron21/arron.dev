@@ -1,9 +1,8 @@
-+++
-date = 2020-12-08T08:00:00Z
-gallery = []
-title = "Covid Statistics"
+---
+date: "2020-12-08"
+title: Covid Statistics
+---
 
-+++
 <h2>Just looking at some of these numbers makes my country, the USA, look pretty bad</h2>
 
 <h3>Some numbers...</h3>

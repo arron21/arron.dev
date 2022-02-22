@@ -1,9 +1,7 @@
-+++
-date = 2021-04-05T07:00:00Z
-gallery = []
-title = "Useful JavaScript String Functions"
-
-+++
+---
+date: "2021-04-05"
+title: Useful JavaScript String Functions
+---
 ### Getting the last 4 characters of a string
 
 The easiest way to get the last 4 characters of a string is by using a **.slice()**

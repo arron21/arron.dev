@@ -1,6 +1,6 @@
 ---
 title: "I went to the dentist"
-date: 2019-03-07T15:07:20-07:00
+date: "2019-03-07"
 draft: false
 ---
 

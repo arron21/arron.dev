@@ -1,6 +1,6 @@
 ---
-title: "Building Blogs in Hugo"
-date: 2019-03-05T15:07:20-07:00
+title: Building Blogs in Hugo
+date: "2019-03-05"
 draft: false
 ---
 

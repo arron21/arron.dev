@@ -1,8 +1,7 @@
-+++
-date = 2020-04-26T07:00:00Z
-title = "Covid 19, Corona, and Our Way of Life"
-
-+++
+---
+date: "2020-04-26"
+title: Covid 19, Corona, and Our Way of Life
+---
 I should have written this back in February, when the COVID-19 crisis began to worsen. 
 
 Regardless, as a species I believe it is in our best interest to accept the following realities:

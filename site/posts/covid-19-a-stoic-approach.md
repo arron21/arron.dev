@@ -1,9 +1,9 @@
-+++
-date = 2020-05-13T07:00:00Z
-draft = true
-title = "Covid 19 a Stoic Approach"
+---
+date: "2020-05-13"
+draft: true
+title: Covid 19 a Stoic Approach
+---
 
-+++
 "**I know that I know nothing**" - Plato ...  - Socrates
 
 To me stoicism is closely related to self reflection.

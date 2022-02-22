@@ -1,11 +1,11 @@
 module.exports = {
-  name: "Supermaya",
+  name: "ArronDev",
   shortDesc:
-    "An 11ty starter kit designed to help you add rich features to a site without a complicated build process.",
+    "My personal blog.",
   url: "",
-  authorEmail: "mike@madebymike.com.au",
+  authorEmail: "arronmccrory@gmail.com",
   authorHandle: "@MikeRiethmuller",
-  authorName: "Mike",
+  authorName: "Arron",
   postsPerPage: 4,
   socialImage: "/img/social.jpg",
   theme: {

@@ -1,10 +1,8 @@
-+++
-date = ""
-draft = true
-gallery = []
-title = "America/Facism Analysis"
-
-+++
+---
+date: ""
+draft: true
+title: America/Facism Analysis
+---
 I have replied to the 14 points detailed by Dr. Lawrence Britt on the 'Defining Points of Fascism'
 
 1\. Powerful and Continuing Nationalism - Fascist regimes tend to make constant use of patriotic mottos, slogans, symbols, songs, and other paraphernalia. Flags are seen everywhere, as are flag symbols on clothing and in public displays.

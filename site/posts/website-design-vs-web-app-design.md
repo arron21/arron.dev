@@ -1,9 +1,8 @@
-+++
-date = 2020-10-04T07:00:00Z
-gallery = []
-title = "Website Design vs Web App Design"
+---
+date: "2020-10-04"
+title: Website Design vs Web App Design
+---
 
-+++
 When we think of the internet and we think of design, we generally use the  term "Web Design".
 
 I'd like to explain how there are actually two very different realms of web design.

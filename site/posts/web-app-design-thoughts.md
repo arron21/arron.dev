@@ -1,9 +1,7 @@
-+++
-date = 2020-05-17T07:00:00Z
-gallery = []
-title = "Web App Design, Thoughts."
-
-+++
+---
+date: "2020-05-17"
+title: Web App Design, Thoughts
+---
 Websites, and moreso relevant to my daily work, Webapps tend to follow some basic tried and true principles to their design. It may be the classic F pattern, or a top nav, or a side nav. It might be master details. What I am pondering tonight is how and why we design web apps the way we do. Do web app take their design inspiration from web sites, or from native desktop programs. What about operating systems? The operating system itself is just a container program that runs smaller programs.
 
 There has been talk of "micro frontends". It's the concept of housing multiple web apps inside 1 unified container. Each app could be built with an entirely different codebase and all interacted with in the same parent web app. Kind of like running different programs on an operating system.
