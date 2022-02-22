@@ -1,7 +1,7 @@
 ---
-date: "2019-9-22"
-draft: true
+draft: false
 title: America/Facism Analysis
+date: "2019-09-12"
 ---
 I have replied to the 14 points detailed by Dr. Lawrence Britt on the 'Defining Points of Fascism'
 
