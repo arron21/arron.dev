@@ -1,5 +1,5 @@
 ---
-date: ""
+date: "2019-9-22"
 draft: true
 title: America/Facism Analysis
 ---
