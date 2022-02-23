@@ -1,12 +1,12 @@
 module.exports = {
-  name: "ArronDev",
+  name: "arron.dev",
   shortDesc:
-    "My personal blog.",
+    "The personal blog of Arron McCrory",
   url: "",
   authorEmail: "arronmccrory@gmail.com",
-  authorHandle: "@MikeRiethmuller",
+  authorHandle: "@arron",
   authorName: "Arron",
-  postsPerPage: 4,
+  postsPerPage: 7,
   socialImage: "/img/social.jpg",
   theme: {
     primary: {
