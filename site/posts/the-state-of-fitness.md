@@ -1,6 +1,6 @@
 ---
 date: "2022-05-25"
-title: Hot Take: The state of fitness in the U.S.A.
+title: The state of fitness in the U.S.A. - Hot Take
 draft: false
 ---
 
