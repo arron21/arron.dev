@@ -10,9 +10,9 @@ This saves your username and password for the project folder
 
 This saves your email to the local project
 
-**git config --local user.name"youremail@gmail.com"**
+**git config --local user.name "arron"**
 
-This saves your nameto the local project
+This saves your name to the local project
 
 **git  fetch -p**
 
